@@ -1,2 +1,2 @@
-# internship-task-1 _future intern
+# internship-task-1,2,3 _future intern
 My first GitHub upload
